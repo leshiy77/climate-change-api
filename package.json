@@ -1,0 +1,24 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "Climate change API for use in RapidAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leshiy77/climate-change-api.git"
+  },
+  "author": "Roman Kozhara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshiy77/climate-change-api/issues"
+  },
+  "homepage": "https://github.com/leshiy77/climate-change-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1"
+  }
+}

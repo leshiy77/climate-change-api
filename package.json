@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/leshiy77/climate-change-api/issues"
   },
-  "homepage": "https://github.com/leshiy77/climate-change-api#readme",
+  "homepage": "https://github.com/leshiy77/climate-change-api",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.11",
